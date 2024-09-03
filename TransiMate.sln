@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransiMate", "TransiMate\TransiMate.csproj", "{4EE2B613-A7E8-4327-9CC2-D6C8DB15954F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "解决方案项", "解决方案项", "{863ADAA1-136C-46D6-AD58-628AA8DE4A0B}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoForm", "DemoForm\DemoForm.csproj", "{6AB8424A-8EB4-47CA-9680-6CE302CA94FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EE2B613-A7E8-4327-9CC2-D6C8DB15954F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EE2B613-A7E8-4327-9CC2-D6C8DB15954F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EE2B613-A7E8-4327-9CC2-D6C8DB15954F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EE2B613-A7E8-4327-9CC2-D6C8DB15954F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AB8424A-8EB4-47CA-9680-6CE302CA94FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AB8424A-8EB4-47CA-9680-6CE302CA94FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AB8424A-8EB4-47CA-9680-6CE302CA94FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AB8424A-8EB4-47CA-9680-6CE302CA94FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D028A79-5ED8-4A98-BD5D-FDADC4E7965E}
+	EndGlobalSection
+EndGlobal
