@@ -150,4 +150,4 @@
 
 ## 许可证
 
-此项目基于 MIT 许可证，详情请参阅 [LICENSE](/LICENSE) 文件。
+此项目基于 MIT 许可证，详情请参阅 [LICENSE](/LICENSE.txt) 文件。
