@@ -27,7 +27,8 @@
       CancellationToken token = default) where T : notnull
   
   Start<T>(T startValue,
-      T endValue, int time,
+      T endValue,
+      int time,
       int fps,
       CustomEasingDelegate customEasing,
       Action<T> setValue,
