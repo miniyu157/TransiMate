@@ -4,7 +4,7 @@
 
 ## 安装
 - ```
-  Install-Package KlxPiaoControls
+  Install-Package TransiMate
   ```
 - 前往 [release](https://github.com/miniyu157/TransiMate/releases) 下载最新版的 ```TransiMate.dll``` 并添加依赖项
 - 克隆此仓库，将项目添加到解决方案中
